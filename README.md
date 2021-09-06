@@ -1,6 +1,6 @@
 # MM-GNN
 
-Repo with code associated with paper "Multimodal Brain Explainer: Integrating Connectivity Data for Schizophrenia Detection"
+Repo with code associated with paper "Multimodal Graph Coarsening for Interpretable, MRI-Based Graph Neural Network"
 
 MMSAG.py and MMTopK.py provide implementations of the multimodal SAGPooling and TopK pooling layers described in the paper for M=2 input modalities.
 
